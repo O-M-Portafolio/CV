@@ -72,7 +72,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #BD5D38;
+  background-color: #703D4A;
 }
 
 .dev-icons {
@@ -160,11 +160,11 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #9B9B9B  !important;
+  background-color: #703D4A  !important;
 }
 
 .text-primary {
-  color: #9B9B9B  !important;
+  color: #703D4A !important;
 }
 
 a {
@@ -172,5 +172,11 @@ a {
 }
 
 a:hover, a:focus, a:active {
-  color: #724130;
+  color: #703D4A
+}
+.bg-st{
+  background-color: #703D4A
+}
+.text-test{
+  color: #703D4A!important;
 }
